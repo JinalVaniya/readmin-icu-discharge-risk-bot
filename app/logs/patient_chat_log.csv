@@ -1,0 +1,63 @@
+timestamp,session_id,subject_id,stay_id,step,role,message,patient_done,patient_escalated
+2026-05-09T20:20:24,c227578b62af,10031757,123456,0,patient,Partially,False,False
+2026-05-09T20:20:24,c227578b62af,10031757,123456,0,bot,Thanks for telling me. Are you having any symptoms today?,False,False
+2026-05-09T20:20:29,c227578b62af,10031757,123456,1,patient,3,False,False
+2026-05-09T20:20:29,c227578b62af,10031757,123456,1,bot,Thanks. Are you feeling worse than when you left the hospital?,False,False
+2026-05-09T20:20:31,c227578b62af,10031757,123456,2,patient,Mild symptoms,False,False
+2026-05-09T20:20:31,c227578b62af,10031757,123456,2,bot,Thanks. Please keep monitoring your symptoms and confirm your follow-up appointment.,False,False
+2026-05-09T20:20:37,c227578b62af,10031757,123456,3,patient,No,False,False
+2026-05-09T20:20:37,c227578b62af,10031757,123456,3,bot,Thank you. Your check-in is complete.,False,False
+2026-05-09T20:25:19,7dd85dff9408,10031757,123456,0,patient,Partially,False,False
+2026-05-09T20:25:19,7dd85dff9408,10031757,123456,0,bot,Thanks for telling me. Are you having any symptoms today?,False,False
+2026-05-09T20:25:21,7dd85dff9408,10031757,123456,1,patient,3,False,False
+2026-05-09T20:25:21,7dd85dff9408,10031757,123456,1,bot,Thanks. Are you feeling worse than when you left the hospital?,False,False
+2026-05-09T20:25:23,7dd85dff9408,10031757,123456,2,patient,Mild symptoms,False,False
+2026-05-09T20:25:23,7dd85dff9408,10031757,123456,2,bot,Thanks. Please keep monitoring your symptoms and confirm your follow-up appointment.,False,False
+2026-05-09T20:25:27,7dd85dff9408,10031757,123456,3,patient,No,False,False
+2026-05-09T20:25:27,7dd85dff9408,10031757,123456,3,bot,Thank you. Your check-in is complete.,False,False
+2026-05-09T20:27:59,444a8df9c1ac,10031757,123456,0,patient,Partially,False,False
+2026-05-09T20:27:59,444a8df9c1ac,10031757,123456,0,bot,Thanks for telling me. Are you having any symptoms today?,False,False
+2026-05-09T20:28:01,444a8df9c1ac,10031757,123456,1,patient,3,False,False
+2026-05-09T20:28:01,444a8df9c1ac,10031757,123456,1,bot,Thanks. Are you feeling worse than when you left the hospital?,False,False
+2026-05-09T20:28:04,444a8df9c1ac,10031757,123456,2,patient,Mild symptoms,False,False
+2026-05-09T20:28:04,444a8df9c1ac,10031757,123456,2,bot,Thanks. Please keep monitoring your symptoms and confirm your follow-up appointment.,False,False
+2026-05-09T20:29:12,db67ff647355,10031757,123456,0,patient,No,False,False
+2026-05-09T20:29:12,db67ff647355,10031757,123456,0,bot,Urgent escalation: I am notifying the care team now.,False,False
+2026-05-09T20:33:35,d8e832d7e803,10031757,123456,0,patient,Partially,False,False
+2026-05-09T20:33:35,d8e832d7e803,10031757,123456,0,bot,Thanks for telling me. Are you having any symptoms today? Rate on scale of 1 to 5.,False,False
+2026-05-09T20:33:37,d8e832d7e803,10031757,123456,1,patient,3,False,False
+2026-05-09T20:33:37,d8e832d7e803,10031757,123456,1,bot,Thanks. Are you feeling worse than when you left the hospital?,False,False
+2026-05-09T20:33:39,d8e832d7e803,10031757,123456,2,patient,Mild symptoms,False,False
+2026-05-09T20:33:39,d8e832d7e803,10031757,123456,2,bot,Thanks. Please keep monitoring your symptoms and confirm your follow-up appointment.,False,False
+2026-05-09T20:33:41,d8e832d7e803,10031757,123456,3,patient,No,False,False
+2026-05-09T20:33:41,d8e832d7e803,10031757,123456,3,bot,Thank you. Your check-in is complete.,False,False
+2026-05-09T20:34:21,19d0b773ee48,10031757,123456,0,patient,Yes,False,False
+2026-05-09T20:34:21,19d0b773ee48,10031757,123456,0,bot,"Great. On a scale of 1 to 5, how is your breathing today?",False,False
+2026-05-09T20:34:27,19d0b773ee48,10031757,123456,1,patient,4,False,False
+2026-05-09T20:34:27,19d0b773ee48,10031757,123456,1,bot,Good to hear. Do you have your follow-up appointment scheduled?,False,False
+2026-05-09T20:34:32,19d0b773ee48,10031757,123456,2,patient,Mild symptoms,False,False
+2026-05-09T20:34:32,19d0b773ee48,10031757,123456,2,bot,Thanks. Please keep monitoring your symptoms and confirm your follow-up appointment.,False,False
+2026-05-09T20:34:38,19d0b773ee48,10031757,123456,3,patient,Yes,False,False
+2026-05-09T20:34:38,19d0b773ee48,10031757,123456,3,bot,Thank you. Your check-in is complete.,False,False
+2026-05-12T20:59:08,35970168b6d8,10031757,123456,0,patient,No,False,False
+2026-05-12T20:59:08,35970168b6d8,10031757,123456,0,bot,Urgent escalation: I am notifying the care team now.,False,False
+2026-05-12T20:59:30,d03d3f3bf95b,10031757,123456,0,patient,Yes,False,False
+2026-05-12T20:59:30,d03d3f3bf95b,10031757,123456,0,bot,"Great. On a scale of 1 to 5, how is your breathing today?",False,False
+2026-05-12T20:59:41,d03d3f3bf95b,10031757,123456,1,patient,4,False,False
+2026-05-12T20:59:41,d03d3f3bf95b,10031757,123456,1,bot,Good to hear. Do you have your follow-up appointment scheduled?,False,False
+2026-05-12T20:59:54,d03d3f3bf95b,10031757,123456,2,patient,Urgent symptoms,False,False
+2026-05-12T20:59:54,d03d3f3bf95b,10031757,123456,2,bot,Urgent escalation: I am notifying the care team now.,False,False
+2026-05-12T21:00:07,4fabaff2d3d2,10031757,123456,0,patient,Yes,False,False
+2026-05-12T21:00:07,4fabaff2d3d2,10031757,123456,0,bot,"Great. On a scale of 1 to 5, how is your breathing today?",False,False
+2026-05-12T21:00:09,4fabaff2d3d2,10031757,123456,1,patient,4,False,False
+2026-05-12T21:00:09,4fabaff2d3d2,10031757,123456,1,bot,Good to hear. Do you have your follow-up appointment scheduled?,False,False
+2026-05-13T19:18:57,c28243a42ff0,10031757,123456,0,patient,Yes,False,False
+2026-05-13T19:18:57,c28243a42ff0,10031757,123456,0,bot,"Great. On a scale of 1 to 5, how is your breathing today?",False,False
+2026-05-13T19:19:07,c28243a42ff0,10031757,123456,1,patient,4,False,False
+2026-05-13T19:19:07,c28243a42ff0,10031757,123456,1,bot,Good to hear. Do you have your follow-up appointment scheduled?,False,False
+2026-05-13T19:19:11,c28243a42ff0,10031757,123456,2,patient,Urgent symptoms,False,False
+2026-05-13T19:19:11,c28243a42ff0,10031757,123456,2,bot,Urgent escalation: I am notifying the care team now.,False,False
+2026-05-14T16:56:11,19dbc9570551,10031757,123456,0,patient,Partially,False,False
+2026-05-14T16:56:11,19dbc9570551,10031757,123456,0,bot,Thanks for telling me. Are you having any symptoms today? Rate on scale of 1 to 5.,False,False
+2026-05-14T16:56:14,19dbc9570551,10031757,123456,1,patient,2,False,False
+2026-05-14T16:56:14,19dbc9570551,10031757,123456,1,bot,Urgent escalation: your breathing score is low. I am notifying the care team now.,False,False
