@@ -1,0 +1,48 @@
+stay_id,subject_id,outtime,readmit_30d,readmit_60d,readmit_90d,risk_score,risk_tier,readmit_prob_30d,interventions,top_risk_drivers
+39553978,10000032,2180-07-23 23:50:47,0,0,0,32.2,LOW,0.322,Standard discharge instructions | Patient portal message at day 7,vital sbp mean | ventilation flag | lab sodium
+37067082,10001217,2157-11-21 22:08:00,1,1,1,46.0,MEDIUM,0.46,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,ventilation flag | discharge home | n prior icu
+34592300,10001217,2157-12-20 14:27:41,0,0,0,22.9,LOW,0.229,Standard discharge instructions | Patient portal message at day 7,ventilation flag | vital resp rate mean | discharge home
+31205490,10001725,2110-04-12 23:59:56,0,0,0,15.7,LOW,0.157,Standard discharge instructions | Patient portal message at day 7,ventilation flag | trend wbc | vital resp rate mean
+33987268,10002428,2156-04-17 15:57:08,1,1,1,77.4,HIGH,0.774,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,vital o2 sat min | anchor age | trend lactate
+38875437,10002428,2156-04-26 18:58:41,1,1,1,75.7,HIGH,0.757,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,vital resp rate mean | anchor age | n icd codes
+34807493,10002428,2156-05-02 22:27:20,1,1,1,72.8,HIGH,0.728,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,n prior icu | trend lactate | vital resp rate mean
+35479615,10002428,2156-05-22 14:16:46,0,0,0,48.2,MEDIUM,0.482,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,n prior icu | lab creatinine | anchor age
+36753294,10002495,2141-05-27 22:24:02,0,0,0,38.4,LOW,0.384,Standard discharge instructions | Patient portal message at day 7,trend lactate | has chf | anchor age
+37049133,10002930,2196-04-15 16:54:44,0,0,0,28.1,LOW,0.281,Standard discharge instructions | Patient portal message at day 7,ventilation flag | vital resp rate mean | n prior icu
+35629889,10002930,2198-04-18 13:41:43,0,0,0,30.8,LOW,0.308,Standard discharge instructions | Patient portal message at day 7,vital resp rate mean | ventilation flag | lab creatinine
+35514836,10003046,2154-01-04 15:19:56,0,0,0,36.5,LOW,0.365,Standard discharge instructions | Patient portal message at day 7,vital resp rate mean | vital o2 sat min | discharge home
+32128372,10003400,2137-03-10 21:29:36,0,0,0,19.3,LOW,0.193,Standard discharge instructions | Patient portal message at day 7,lab lactate | trend lactate | lab sodium
+34577403,10003400,2137-08-13 17:54:54,1,1,1,59.1,MEDIUM,0.591,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,has ckd | elixhauser score | has chf
+38383343,10003400,2137-09-02 19:17:11,0,0,0,21.9,LOW,0.219,Standard discharge instructions | Patient portal message at day 7,vital sbp mean | has ckd | elixhauser score
+34100191,10004235,2196-02-29 15:58:02,0,0,0,82.5,HIGH,0.825,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,vital resp rate mean | vital o2 sat min | gender male
+38329661,10006580,2137-08-11 13:56:56,0,0,0,32.4,LOW,0.324,Standard discharge instructions | Patient portal message at day 7,vital resp rate mean | ventilation flag | vital sbp mean
+31921355,10007795,2136-04-23 19:13:58,0,0,0,53.6,MEDIUM,0.536,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,ventilation flag | vital sbp mean | lab sodium
+35258379,10009628,2153-09-21 16:39:06,0,0,0,13.1,LOW,0.131,Standard discharge instructions | Patient portal message at day 7,trend lactate | lab sodium | discharge home
+31338022,10012853,2176-11-29 20:58:54,0,0,0,78.3,HIGH,0.783,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,trend lactate | has copd | has ckd
+37200209,10014354,2146-10-09 21:20:50,0,0,0,13.4,LOW,0.134,Standard discharge instructions | Patient portal message at day 7,has copd | vital sbp mean | ventilation flag
+34600477,10014354,2148-07-01 20:58:50,1,1,1,68.9,MEDIUM,0.689,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,has pneumonia | ventilation flag | std heart rate
+38017367,10014354,2148-07-10 18:25:51,0,1,1,37.3,LOW,0.373,Standard discharge instructions | Patient portal message at day 7,trend wbc | has pneumonia | ventilation flag
+39864867,10014354,2148-08-17 14:45:17,0,0,0,29.8,LOW,0.298,Standard discharge instructions | Patient portal message at day 7,n prior icu | lab sodium | ventilation flag
+33558396,10014729,2125-03-01 21:21:37,0,0,0,7.8,LOW,0.078,Standard discharge instructions | Patient portal message at day 7,trend sbp | anchor age | vital resp rate mean
+33652203,10016150,2142-05-10 20:23:49,0,0,0,13.7,LOW,0.137,Standard discharge instructions | Patient portal message at day 7,trend o2 sat | vital sbp mean | ventilation flag
+37057036,10016742,2178-07-08 20:34:44,1,1,1,72.7,HIGH,0.727,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,vital resp rate mean | n prior icu | lab sodium
+32314488,10016742,2178-07-16 14:41:31,1,1,1,85.0,HIGH,0.85,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,vital sbp mean | vital o2 sat min | std sbp
+30425410,10016742,2178-07-25 16:42:43,0,0,0,18.4,LOW,0.184,Standard discharge instructions | Patient portal message at day 7,trend lactate | vital resp rate mean | n prior icu
+31269608,10018328,2154-05-02 15:55:21,0,0,0,27.1,LOW,0.271,Standard discharge instructions | Patient portal message at day 7,ventilation flag | has chf | anchor age
+34107647,10019003,2153-03-31 16:59:04,1,1,1,63.8,MEDIUM,0.638,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,trend wbc | vital resp rate mean | has copd
+35214014,10019003,2153-04-16 21:15:15,0,0,0,54.7,MEDIUM,0.547,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,has copd | trend lactate | vital resp rate mean
+35727289,10019003,2155-07-13 15:04:42,0,0,0,20.6,LOW,0.206,Standard discharge instructions | Patient portal message at day 7,vital resp rate mean | has copd | n prior icu
+39268883,10019385,2180-02-22 16:05:14,0,0,0,29.5,LOW,0.295,Standard discharge instructions | Patient portal message at day 7,discharge home | gender male | n prior icu
+38540883,10020306,2135-01-24 21:47:45,0,0,0,19.6,LOW,0.196,Standard discharge instructions | Patient portal message at day 7,ventilation flag | lab creatinine | has chf
+35026312,10020740,2150-03-19 02:17:47,1,1,1,83.1,HIGH,0.831,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,vital resp rate mean | std heart rate | gender male
+35044342,10020740,2150-03-23 20:49:33,1,1,1,82.0,HIGH,0.82,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,vital resp rate mean | gender male | ventilation flag
+35889503,10020740,2150-03-28 22:20:47,1,1,1,63.3,MEDIUM,0.633,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,vital resp rate mean | n prior icu | gender male
+31077365,10020740,2150-04-04 10:58:43,0,0,1,35.2,LOW,0.352,Standard discharge instructions | Patient portal message at day 7,n prior icu | vital resp rate mean | lab sodium
+32145159,10020740,2150-06-04 21:05:58,0,0,0,13.3,LOW,0.133,Standard discharge instructions | Patient portal message at day 7,n prior icu | vital sbp mean | trend o2 sat
+36091287,10026354,2119-10-27 17:50:50,0,0,0,29.6,LOW,0.296,Standard discharge instructions | Patient portal message at day 7,vital resp rate mean | anchor age | gender male
+32391858,10027602,2201-11-12 18:37:10,1,1,1,75.1,HIGH,0.751,Nurse call within 24hrs | PCP appt within 7 days | Care coordination referral | Daily SMS monitoring,n prior icu | vital sbp mean | ventilation flag
+32453351,10027602,2201-12-13 18:29:00,0,0,0,44.9,MEDIUM,0.449,48-hr follow-up call | PCP appt within 14 days | Pharmacist med reconciliation,vital resp rate mean | vital sbp mean | lab creatinine
+30932571,10035631,2116-03-10 06:35:04,0,0,0,28.0,LOW,0.28,Standard discharge instructions | Patient portal message at day 7,vital resp rate mean | lab creatinine | gender male
+33281088,10039708,2140-02-08 22:28:20,0,0,0,34.8,LOW,0.348,Standard discharge instructions | Patient portal message at day 7,has chf | vital sbp mean | n icd codes
+38559363,10039708,2140-06-19 21:47:16,0,0,0,26.0,LOW,0.26,Standard discharge instructions | Patient portal message at day 7,has ckd | lab creatinine | vital resp rate mean
+37323533,10039708,2143-09-20 16:29:51,0,0,0,1.6,LOW,0.016,Standard discharge instructions | Patient portal message at day 7,lab creatinine | vital resp rate mean | has ckd
