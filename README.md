@@ -266,11 +266,11 @@ logs/patient_chat_log.csv
 ---
 # Authors
 
-Shreedhar Patel
-Aaliya Ailan
-Timothy Menz
-Imran Khan
-Dhruvkumar Rathod
-Keving Pierre
-Jinalkumari Vaniya
-Happy Patel
+- Shreedhar Patel
+- Aaliya Ailan
+- Timothy Menz
+- Imran Khan
+- Dhruvkumar Rathod
+- Keving Pierre
+- Jinalkumari Vaniya
+- Happy Patel
